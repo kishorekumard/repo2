@@ -1,0 +1,67 @@
+8
+
+dir
+483
+http://svn-repo/subversion/dev/projects/widgets/jdashboard
+http://svn-repo/subversion
+
+
+
+2012-08-10T08:56:30.524996Z
+442
+brianmichaelis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+09480e7c-90a6-11e1-9bf1-654370abd2ac
+
+images
+dir
+
+jdashboard.css
+file
+
+
+
+
+2012-08-14T17:17:57.000000Z
+3eff9e6da79ab27d4449a314cc229188
+2012-08-10T08:56:30.524996Z
+442
+brianmichaelis
+
+jdashboard.js
+file
+
+
+
+
+2012-08-14T17:17:57.000000Z
+1877ed24c26ff8206ab4eb61d472bd04
+2012-08-10T08:56:30.524996Z
+442
+brianmichaelis
+
+jdashboard.min.js
+file
+
+
+
+
+2012-08-14T17:17:57.000000Z
+2b38534d317b7a6c1ce5d1dcae605fc8
+2012-08-10T08:56:30.524996Z
+442
+brianmichaelis
+

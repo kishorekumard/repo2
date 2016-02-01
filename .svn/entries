@@ -1,0 +1,75 @@
+8
+
+dir
+483
+http://svn-repo/subversion/dev/projects/widgets
+http://svn-repo/subversion
+
+
+
+2012-08-15T17:25:27.067662Z
+483
+brendenellingboe
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+09480e7c-90a6-11e1-9bf1-654370abd2ac
+
+jdashboard
+dir
+
+documentation.pdf
+file
+
+
+
+
+2012-08-14T17:17:57.000000Z
+79ee11a19f302cb58fe447f8a61bebbd
+2012-08-10T08:56:30.524996Z
+442
+brianmichaelis
+has-props
+
+images
+dir
+
+otherwidgets
+dir
+
+WIDGETS.rar
+file
+
+
+
+
+2012-08-14T17:17:57.000000Z
+d1f24583dc91ce44347d3453cfcaffe2
+2012-08-10T08:56:30.524996Z
+442
+brianmichaelis
+has-props
+
+index.html
+file
+
+
+
+
+2012-08-15T17:25:53.000000Z
+10504852939c4f8a2d877760f5c05d82
+2012-08-15T17:25:27.067662Z
+483
+brendenellingboe
+
